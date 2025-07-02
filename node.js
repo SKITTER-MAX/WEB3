@@ -10,4 +10,4 @@ const server = http.createServer((req, res) => {
 const PORT = 3000;
 server.listen(PORT, () => {
   console.log(`Server r
-git config --global user.email "your-email@example.com"
+git config --global user.email "your-email@.com"
